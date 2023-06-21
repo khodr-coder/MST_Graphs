@@ -1,0 +1,2 @@
+C:\Users\Khodr\source\repos\KhodrSalman_CIS3501_Prog2\Debug\KhodrSalman_CIS3501_Prog2.exe
+C:\Users\Khodr\source\repos\KhodrSalman_CIS3501_Prog2\Debug\KhodrSalman_CIS3501_Prog2.pdb

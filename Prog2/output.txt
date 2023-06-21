@@ -1,0 +1,35 @@
+the vertex V128.8.10.14 has been inserted 
+the vertex V128.8.10.14 has been inserted 
+the vertex V128.8.128.423 has been inserted 
+the vertex V128.8.128.423 has been inserted 
+the vertex V128.8.10.268 has been inserted 
+the vertex V128.8.10.268 has been inserted 
+ edge between V128.8.10.14 and V128.8.10.268 added 
+ edge between V128.8.10.14 and V128.8.10.268 added 
+printing the graph:
+V128.8.10.14->[ V128.8.10.268 | 43.56 ]
+V128.8.128.423
+V128.8.10.268->[ V128.8.10.14 | 43.56 ]
+ edge between V128.8.10.268 and V128.8.128.423 added 
+ edge between V128.8.10.268 and V128.8.128.423 added 
+printing the graph:
+V128.8.10.14->[ V128.8.10.268 | 43.56 ]
+V128.8.128.423->[ V128.8.10.268 | 170.36 ]
+V128.8.10.268->[ V128.8.10.14 | 43.56 ]->[ V128.8.128.423 | 170.36 ]
+
+ D) Delete Vertex OR Delete Edge 
+ I) Insert Vertex OR Insert Edge 
+ P) Print Graph OR Print MST 
+ Q) Quit
+
+  Choose an option -> printing the graph:
+V128.8.10.14->[ V128.8.10.268 | 43.56 ]
+V128.8.128.423->[ V128.8.10.268 | 170.36 ]
+V128.8.10.268->[ V128.8.10.14 | 43.56 ]->[ V128.8.128.423 | 170.36 ]
+
+ D) Delete Vertex OR Delete Edge 
+ I) Insert Vertex OR Insert Edge 
+ P) Print Graph OR Print MST 
+ Q) Quit
+
+  Choose an option -> You are now quitting the program
